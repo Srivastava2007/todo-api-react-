@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+   
+}
+
+.inputcontainer {
+    display: flex;
+    gap: 50px;           /* space between inputs */
+    justify-content: center;
+    padding: 10px;
+    align-items: center;
+}
+
+.inputcontainer input {
+    width: 200px;        /* control size */
+}
+
+.t {
+   display: flex;
+    gap: 170px;           /* space between inputs */
+    justify-content: center;
+    padding: 10px;
+    align-items: center;
+}
